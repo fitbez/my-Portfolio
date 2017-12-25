@@ -1,2 +1,0 @@
-# my-Portfolio
-New Portfolio
