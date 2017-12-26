@@ -726,7 +726,7 @@ start Section skills
 }
 
 .skills .skills-progress {
-  height: 7px;
+  height:3px;
   border-radius: 0px;
   width: 90%;
   background: #fff;
