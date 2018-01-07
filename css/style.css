@@ -1,27 +1,4 @@
-/*---------------------------------------------------
-   Main style stylesheet
-   project:       Remo- Personal Portfolio Template
-   Version:       1.0
-   Author:        mezo10
-   primary use:   personal
------------------------------------------------------*/
 
-/*----------------------------------------------------
-body
-  +loading page
-  +navbar
-  +header section'
-  +video-container section
-  +about section
-  +services section
-  +team section
-  +my-portfolio section
-  +clients section
-  +blog section
-  +contact section
-  +scroll to top button
-
-------------------------------------------------------*/
 *{
    -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
