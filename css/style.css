@@ -946,6 +946,12 @@ start my-portfolio section
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 }
+.links a i {
+    position: relative;
+    color: #c1c1c1;
+    font-size: 16px;
+    margin: 0 13px;
+    z-index: 100;
 /*----------------------------------------------------
 end my-portfolio section
 ----------------------------------------------------*/
