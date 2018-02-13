@@ -402,7 +402,7 @@ end Section header
 start section home for image page
 ----------------------------------------------------*/
 .home{
-    height: 600px;
+    height: 700px;
     background-image: url('../images/home.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -414,7 +414,7 @@ start section home for image page
 
 .home .overlay{
     background-color: rgba(0,0,0,0.7);
-    height: 600px;
+    height: 700px;
     padding: 70px 0;
     display: flex;
     justify-content: center;
